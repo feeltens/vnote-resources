@@ -5,3 +5,4 @@ vnote-resources
 - images 图片
 - attachmments 附件
 
+使用 PicGo 工具上传并管理资源文件。
